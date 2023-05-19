@@ -1,98 +1,95 @@
 body {
-    background-color: #111D4A;
+  background-color: #111d4a;
 }
 
 .page {
-    margin: 20 0;
-    text-align: center;
+  margin: 20 0;
+  text-align: center;
 }
 
 body {
-    font: 18px/26px 'Pacifico', Helvetica, Arial, sans-serif;
-    color: #EEEEEE;
-    margin: 0px;
-    padding: 0px;
+  font: 18px/26px "Pacifico", Helvetica, Arial, sans-serif;
+  color: #eeeeee;
+  margin: 0px;
+  padding: 0px;
 }
 
 h3 {
-    font-size: 21px;
-    font-family: 'Inter';
-    font-weight: 700;
-    text-transform: uppercase;
+  font-size: 21px;
+  font-family: "Inter";
+  font-weight: 700;
+  text-transform: uppercase;
 }
 
 h3 #clock {
-    font-size: 36px;
-    display: block;
-    padding: 50px 0px;
+  font-size: 36px;
+  display: block;
+  padding: 50px 0px;
 }
 
 #ddangImage {
-    max-width: 30em;
+  max-width: 30em;
 }
 
 blockquote {
-    font: 2em/1em 'Open Sans', sans-serif;
-    -webkit-text-stroke: 1px black;
-    text-shadow: 2px 2px #000;
-    margin: -80px 0 100px 0;
-    color: #fff;
-    /* outline: red dashed 1px; */
+  font: 2em/1em "Open Sans", sans-serif;
+  -webkit-text-stroke: 1px black;
+  text-shadow: 2px 2px #000;
+  margin: -80px 0 100px 0;
+  color: #fff;
+  /* outline: red dashed 1px; */
 }
 
 blockquote:before {
-    content: '"';
+  content: '"';
 }
 
 blockquote:after {
-    content: '"';
+  content: '"';
 }
 
 .selectors {
-
-    width: 50%;
-    margin: 0 auto;
-
-
+  width: 50%;
+  margin: 0 auto;
 }
+
 .selectors label {
-    margin: 0;
+  margin: 0;
 }
 
 .selectors select {
-    margin: 0;
+  margin: 0;
 }
 
 select {
-    height: 35px;
+  height: 35px;
 }
 
 label {
-    font-family: 'Inter';
-   
+  font-family: "Inter";
 }
 
-#wakeuptimeSelector, #lunchtimeSelector, #naptimeSelector {
-    padding: 10px 0;
+#wakeuptimeSelector,
+#lunchtimeSelector,
+#naptimeSelector {
+  padding: 10px 0;
 }
 
 #partyTimeButton {
-    background-color: #2C3333;
-    width: 200px;
-    font-family: 'Inter' ;
-    font-size: 22px;
-    font-weight: 700;
-    color: #fff;
-    border: none;
-    border-radius: 5px;
-    padding: 10px 0;
-    margin-top: 20px;
-
+  background-color: #2c3333;
+  width: 200px;
+  font-family: "Inter";
+  font-size: 22px;
+  font-weight: 700;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 0;
+  margin-top: 20px;
 }
 
-
 footer p {
-    font-family: 'Inter', sans-serif; 
-    font-size: 12px;
-    margin: 0;
+  font-family: "Inter", sans-serif;
+  font-size: 12px;
+  margin: 0;
 }
